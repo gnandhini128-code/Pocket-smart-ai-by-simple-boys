@@ -1,0 +1,6 @@
+{
+  "name": "GO SAVE - PocketSmart AI",
+  "description": "Smart budget & recommendation assistant for students and individuals to track expenses, manage budgets, and receive personalized savings advice. Made by simple boys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
